@@ -1,0 +1,628 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+MERGED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/308702e828f731bc653653a2ee20db8a/AndroidManifest.xml:2:1-11:12
+MERGED from [:api] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:coordinator] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:slidingMenu] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/slidingMenu/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.androidadvance:topsnackbar:1.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/topsnackbar-1.1.1.aar/4b93f99d3c62c1cb9ac1bbcad017f475/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/design-25.1.1.aar/5bfe9e1f4fd329e33c34f7be81c5ddfc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/74f3493d165b924d34d4cbb10b7303b7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/093e728d961dceb31b6cfb4820f86a6f/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:16:1-30:12
+MERGED from [com.android.support:customtabs:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/a5fe39a97ebd781fb799ebbe44bd7b05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:16:1-26:12
+MERGED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:2:1-22:12
+MERGED from [com.flipboard:bottomsheet-core:1.5.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/bottomsheet-core-1.5.0.aar/44baaf999ed451514bc92db0063d6acc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rx-preferences-1.0.2.aar/79a79bab2fde012f408c1d5e4632c541/AndroidManifest.xml:2:1-10:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/3167a932c9f8a5c56078910ef41851d2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6d746bf168004c1d923d85ae9ae435a8/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/07927aaab39f5e45f19de133cf7bc86f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.castorflex.verticalviewpager:library:19.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-19.0.1.aar/dd56272266a52314b9b820776f2b4cc0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.4.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho-1.4.2.aar/330ccd6a1b89ad07e35ae797e8dba9d5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.uphyca:stetho_realm:2.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho_realm-2.0.1.aar/8c58a4aa47728f3aff9751e2bed13fb8/AndroidManifest.xml:2:1-12:12
+MERGED from [io.realm:realm-android-library:2.3.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/realm-android-library-2.3.1.aar/45e0562ff4cb0160db880dedfef01399/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.1.aar/2b0a4434be0630b6cc3df9123c5f6ea5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.coordinators:coordinators:0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/coordinators-0.2.aar/a749e59615eb3d45c0f1b9f04077d6bd/AndroidManifest.xml:2:1-10:12
+MERGED from [com.jakewharton:butterknife:8.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/butterknife-8.0.1.aar/f7e8ce3d88ce0ab33ae0d5d6cac279a2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.0.1.aar/90635003bd3c43307db4d1596bf32f03/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5f1c337d2a5834c84a505d1d9f5f2106/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/64a7fe63c599414e4750123a23faf042/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/transition-25.1.1.aar/8c3dfac01cee365acd3d8b1d2a95ad3e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.1.aar/e8bbd8b6d56c68c676288f97f2816441/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.1.aar/97d537910a485de52798464f1fb23266/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.1.aar/00a61f7363e3cf7483ceb6f5a22cd056/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.1.aar/f2f9daf31217abecb014d5a9d1f46414/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.1.aar/d7ea96facee7245092483f378d381072/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.1.aar/8eaf62cd0e8a6b4a740061ca75d3296f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.1.aar/953d0fcbfcceb37cb46a03e957cbf840/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.1.aar/d8af940b7ab1afcfd6525ead4b19cbdf/AndroidManifest.xml:17:1-27:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/cbd9a464f49a384308107cc61d452d50/AndroidManifest.xml:15:1-21:12
+MERGED from [com.jakewharton.timber:timber:4.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/timber-4.0.1.aar/84b3a4be27c037d86aa8e71a851c0184/AndroidManifest.xml:2:1-10:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:22:1-33:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/4c6bf30002cea9cfab8b55fa5c9e34ce/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:3:11-47
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:1-104:12
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:20:5-66
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:11:5-102:19
+MERGED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:11:5-102:19
+MERGED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:11:5-102:19
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/308702e828f731bc653653a2ee20db8a/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/308702e828f731bc653653a2ee20db8a/AndroidManifest.xml:9:5-20
+MERGED from [:api] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:38
+MERGED from [:api] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:38
+MERGED from [:coordinator] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:38
+MERGED from [:coordinator] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:38
+MERGED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [com.android.support:design:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/design-25.1.1.aar/5bfe9e1f4fd329e33c34f7be81c5ddfc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/design-25.1.1.aar/5bfe9e1f4fd329e33c34f7be81c5ddfc/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/74f3493d165b924d34d4cbb10b7303b7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/74f3493d165b924d34d4cbb10b7303b7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/093e728d961dceb31b6cfb4820f86a6f/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/093e728d961dceb31b6cfb4820f86a6f/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:19:5-29:19
+MERGED from [com.android.support:customtabs:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/a5fe39a97ebd781fb799ebbe44bd7b05/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/a5fe39a97ebd781fb799ebbe44bd7b05/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:19:5-25:19
+MERGED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:12:5-20:19
+MERGED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:12:5-20:19
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rx-preferences-1.0.2.aar/79a79bab2fde012f408c1d5e4632c541/AndroidManifest.xml:8:5-20
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rx-preferences-1.0.2.aar/79a79bab2fde012f408c1d5e4632c541/AndroidManifest.xml:8:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/3167a932c9f8a5c56078910ef41851d2/AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/3167a932c9f8a5c56078910ef41851d2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/07927aaab39f5e45f19de133cf7bc86f/AndroidManifest.xml:12:5-20
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/07927aaab39f5e45f19de133cf7bc86f/AndroidManifest.xml:12:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.4.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho-1.4.2.aar/330ccd6a1b89ad07e35ae797e8dba9d5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.4.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho-1.4.2.aar/330ccd6a1b89ad07e35ae797e8dba9d5/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5f1c337d2a5834c84a505d1d9f5f2106/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5f1c337d2a5834c84a505d1d9f5f2106/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/64a7fe63c599414e4750123a23faf042/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/64a7fe63c599414e4750123a23faf042/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/transition-25.1.1.aar/8c3dfac01cee365acd3d8b1d2a95ad3e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/transition-25.1.1.aar/8c3dfac01cee365acd3d8b1d2a95ad3e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.1.aar/e8bbd8b6d56c68c676288f97f2816441/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.1.aar/e8bbd8b6d56c68c676288f97f2816441/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.1.aar/97d537910a485de52798464f1fb23266/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.1.aar/97d537910a485de52798464f1fb23266/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.1.aar/00a61f7363e3cf7483ceb6f5a22cd056/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.1.aar/00a61f7363e3cf7483ceb6f5a22cd056/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.1.aar/f2f9daf31217abecb014d5a9d1f46414/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.1.aar/f2f9daf31217abecb014d5a9d1f46414/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.1.aar/d7ea96facee7245092483f378d381072/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.1.aar/d7ea96facee7245092483f378d381072/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.1.aar/8eaf62cd0e8a6b4a740061ca75d3296f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.1.aar/8eaf62cd0e8a6b4a740061ca75d3296f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.1.aar/953d0fcbfcceb37cb46a03e957cbf840/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.1.aar/953d0fcbfcceb37cb46a03e957cbf840/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.1.aar/d8af940b7ab1afcfd6525ead4b19cbdf/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.1.aar/d8af940b7ab1afcfd6525ead4b19cbdf/AndroidManifest.xml:25:5-20
+MERGED from [com.jakewharton.timber:timber:4.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/timber-4.0.1.aar/84b3a4be27c037d86aa8e71a851c0184/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/timber-4.0.1.aar/84b3a4be27c037d86aa8e71a851c0184/AndroidManifest.xml:8:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:15:9-41
+	android:largeHeap
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:16:9-33
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:18:9-46
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:18:9-46
+	tools:replace
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml:8:9-37
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:12:9-40
+		REJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:12:9-40
+activity#org.petabytes.awesomeblogs.feeds.FeedsActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:23:13-49
+	android:launchMode
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:21:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:27:27-74
+activity#org.petabytes.awesomeblogs.summary.SummaryActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:31:19-58
+activity#org.petabytes.awesomeblogs.favorite.FavoritesActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:33:19-61
+activity#org.petabytes.awesomeblogs.history.HistoryActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:35:19-58
+activity#org.petabytes.awesomeblogs.settings.SettingsActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:37:9-38:52
+	android:theme
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:38:19-50
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:37:19-60
+activity#org.petabytes.awesomeblogs.author.AuthorActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:40:9-58
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:40:19-56
+activity#org.petabytes.awesomeblogs.search.SearchActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:42:9-58
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:42:19-56
+activity#org.petabytes.awesomeblogs.auth.SignInActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:44:9-46:46
+	android:launchMode
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:45:13-48
+service#org.petabytes.awesomeblogs.fcm.MessagingService
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:48:9-53:19
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:49:13-49
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:50:13-52:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:51:25-75
+service#org.petabytes.awesomeblogs.fcm.InstanceIdService
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:55:9-60:19
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:56:13-50
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:57:13-59:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:58:17-79
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:58:25-77
+service#org.petabytes.awesomeblogs.digest.DigestService
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:62:9-56
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:62:18-54
+receiver#org.petabytes.awesomeblogs.digest.StartUpReceiver
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:64:9-69:20
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:64:19-57
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:65:13-68:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:66:17-79
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:66:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:67:17-83
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:67:25-81
+receiver#org.petabytes.awesomeblogs.migration.MigrationReceiver
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:71:9-75:20
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:71:19-62
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:72:13-74:29
+receiver#org.petabytes.awesomeblogs.referrer.InstallReferrerReceiver
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:77:9-83:20
+	android:exported
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:78:13-61
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:80:13-82:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:81:17-79
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:81:25-76
+receiver#org.petabytes.awesomeblogs.chrome.ActionReceiver
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:85:9-89:20
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:85:19-56
+intent-filter#org.petabytes.awesomeblogs.chrome.ACTION
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:86:13-88:29
+action#org.petabytes.awesomeblogs.chrome.ACTION
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:87:17-83
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:87:25-80
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:91:9-93:57
+	android:resource
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:93:13-54
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:92:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:95:9-97:58
+	android:resource
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:97:13-55
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:96:13-84
+meta-data#io.fabric.ApiKey
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:99:9-101:71
+	android:value
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:101:13-69
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml:100:13-44
+uses-sdk
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/308702e828f731bc653653a2ee20db8a/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/308702e828f731bc653653a2ee20db8a/AndroidManifest.xml:7:5-43
+MERGED from [:api] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:api] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/api/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:coordinator] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:coordinator] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:slidingMenu] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/slidingMenu/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingMenu] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/slidingMenu/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.androidadvance:topsnackbar:1.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/topsnackbar-1.1.1.aar/4b93f99d3c62c1cb9ac1bbcad017f475/AndroidManifest.xml:7:5-9:41
+MERGED from [com.androidadvance:topsnackbar:1.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/topsnackbar-1.1.1.aar/4b93f99d3c62c1cb9ac1bbcad017f475/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/design-25.1.1.aar/5bfe9e1f4fd329e33c34f7be81c5ddfc/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/design-25.1.1.aar/5bfe9e1f4fd329e33c34f7be81c5ddfc/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/74f3493d165b924d34d4cbb10b7303b7/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-core-10.0.1.aar/74f3493d165b924d34d4cbb10b7303b7/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/093e728d961dceb31b6cfb4820f86a6f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-auth-10.0.1.aar/093e728d961dceb31b6cfb4820f86a6f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:customtabs:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/a5fe39a97ebd781fb799ebbe44bd7b05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/customtabs-25.1.1.aar/a5fe39a97ebd781fb799ebbe44bd7b05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:17:5-42
+MERGED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:7:5-10:72
+MERGED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:7:5-10:72
+MERGED from [com.flipboard:bottomsheet-core:1.5.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/bottomsheet-core-1.5.0.aar/44baaf999ed451514bc92db0063d6acc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-core:1.5.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/bottomsheet-core-1.5.0.aar/44baaf999ed451514bc92db0063d6acc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rx-preferences-1.0.2.aar/79a79bab2fde012f408c1d5e4632c541/AndroidManifest.xml:6:5-43
+MERGED from [com.f2prateek.rx.preferences:rx-preferences:1.0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rx-preferences-1.0.2.aar/79a79bab2fde012f408c1d5e4632c541/AndroidManifest.xml:6:5-43
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/3167a932c9f8a5c56078910ef41851d2/AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/calligraphy-2.2.0.aar/3167a932c9f8a5c56078910ef41851d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6d746bf168004c1d923d85ae9ae435a8/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6d746bf168004c1d923d85ae9ae435a8/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/07927aaab39f5e45f19de133cf7bc86f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.castorflex.smoothprogressbar:library:1.1.0] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-1.1.0.aar/07927aaab39f5e45f19de133cf7bc86f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.castorflex.verticalviewpager:library:19.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-19.0.1.aar/dd56272266a52314b9b820776f2b4cc0/AndroidManifest.xml:3:5-72
+MERGED from [com.github.castorflex.verticalviewpager:library:19.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/library-19.0.1.aar/dd56272266a52314b9b820776f2b4cc0/AndroidManifest.xml:3:5-72
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.6] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.6.aar/35bc7e65c7de78bb75f3acc61218337c/AndroidManifest.xml:7:5-43
+MERGED from [com.facebook.stetho:stetho:1.4.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho-1.4.2.aar/330ccd6a1b89ad07e35ae797e8dba9d5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.4.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho-1.4.2.aar/330ccd6a1b89ad07e35ae797e8dba9d5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.uphyca:stetho_realm:2.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho_realm-2.0.1.aar/8c58a4aa47728f3aff9751e2bed13fb8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.uphyca:stetho_realm:2.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/stetho_realm-2.0.1.aar/8c58a4aa47728f3aff9751e2bed13fb8/AndroidManifest.xml:8:5-10:41
+MERGED from [io.realm:realm-android-library:2.3.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/realm-android-library-2.3.1.aar/45e0562ff4cb0160db880dedfef01399/AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:realm-android-library:2.3.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/realm-android-library-2.3.1.aar/45e0562ff4cb0160db880dedfef01399/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.1.aar/2b0a4434be0630b6cc3df9123c5f6ea5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.1.aar/2b0a4434be0630b6cc3df9123c5f6ea5/AndroidManifest.xml:20:5-43
+MERGED from [com.squareup.coordinators:coordinators:0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/coordinators-0.2.aar/a749e59615eb3d45c0f1b9f04077d6bd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.squareup.coordinators:coordinators:0.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/coordinators-0.2.aar/a749e59615eb3d45c0f1b9f04077d6bd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton:butterknife:8.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/butterknife-8.0.1.aar/f7e8ce3d88ce0ab33ae0d5d6cac279a2/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/butterknife-8.0.1.aar/f7e8ce3d88ce0ab33ae0d5d6cac279a2/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.0.1.aar/90635003bd3c43307db4d1596bf32f03/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-10.0.1.aar/90635003bd3c43307db4d1596bf32f03/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5f1c337d2a5834c84a505d1d9f5f2106/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5f1c337d2a5834c84a505d1d9f5f2106/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/64a7fe63c599414e4750123a23faf042/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.1.aar/64a7fe63c599414e4750123a23faf042/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/transition-25.1.1.aar/8c3dfac01cee365acd3d8b1d2a95ad3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/transition-25.1.1.aar/8c3dfac01cee365acd3d8b1d2a95ad3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.1.aar/e8bbd8b6d56c68c676288f97f2816441/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.1.aar/e8bbd8b6d56c68c676288f97f2816441/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.1.aar/97d537910a485de52798464f1fb23266/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.1.aar/97d537910a485de52798464f1fb23266/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.1.aar/00a61f7363e3cf7483ceb6f5a22cd056/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.1.aar/00a61f7363e3cf7483ceb6f5a22cd056/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.1.aar/f2f9daf31217abecb014d5a9d1f46414/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.1.aar/f2f9daf31217abecb014d5a9d1f46414/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.1.aar/d7ea96facee7245092483f378d381072/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.1.aar/d7ea96facee7245092483f378d381072/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.1.aar/8eaf62cd0e8a6b4a740061ca75d3296f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.1.aar/8eaf62cd0e8a6b4a740061ca75d3296f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.1.aar/953d0fcbfcceb37cb46a03e957cbf840/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.1.aar/953d0fcbfcceb37cb46a03e957cbf840/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.1.aar/d8af940b7ab1afcfd6525ead4b19cbdf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.1.aar/d8af940b7ab1afcfd6525ead4b19cbdf/AndroidManifest.xml:21:5-23:58
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/cbd9a464f49a384308107cc61d452d50/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/cbd9a464f49a384308107cc61d452d50/AndroidManifest.xml:19:5-43
+MERGED from [com.jakewharton.timber:timber:4.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/timber-4.0.1.aar/84b3a4be27c037d86aa8e71a851c0184/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.timber:timber:4.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/timber-4.0.1.aar/84b3a4be27c037d86aa8e71a851c0184/AndroidManifest.xml:6:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.3] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/beta-1.2.3.aar/f402d327d9783d16b53ba2e5d7c9fdb2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.15.aar/53556d321020859469d9bd0f8a3aec8c/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.11] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/answers-1.3.11.aar/1d024e7506465a161bcae8b44185b019/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.15] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/fabric-1.3.15.aar/f32777f756c25a5fafc2d37752d2f7ce/AndroidManifest.xml:27:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/4c6bf30002cea9cfab8b55fa5c9e34ce/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/4c6bf30002cea9cfab8b55fa5c9e34ce/AndroidManifest.xml:7:5-43
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/design-25.1.1.aar/5bfe9e1f4fd329e33c34f7be81c5ddfc/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/app/src/debug/AndroidManifest.xml
+activity#eu.fiskur.markdownview.MarkdownActivity
+ADDED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:9-11:20
+	android:name
+		ADDED from [:markDownView] /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:19-73
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-messaging-10.0.1.aar/bfe08a7d61453ffd865111f2bd287586/AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-auth-10.0.1.aar/b4638e50d18ef5b82701bc7211cd1b26/AndroidManifest.xml:24:18-63
+activity#com.tapadoo.alerter.MockActivity
+ADDED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:17:9-19:59
+	android:theme
+		ADDED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from [com.tapadoo.android:alerter:1.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/alerter-1.0.1.aar/c80bbca8cc5787c99dd24f776d68b636/AndroidManifest.xml:18:13-60
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.0.1.aar/ec6640a24d7ef22ba36890a20448eb66/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.0.1.aar/13813bb07df1cc58807d847bc4bb8e8d/AndroidManifest.xml:32:16-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/db827de11111bd68646870659bbf6177/AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:24:17-71
+permission#org.petabytes.awesomeblogs.debug.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:26:22-76
+uses-permission#org.petabytes.awesomeblogs.debug.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:31:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+org.petabytes.awesomeblogs.debug
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:34:27-58
+category#org.petabytes.awesomeblogs.debug
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.0.1.aar/9cbfe8a6ca1f5d03508b506d9c2d424b/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/firebase-common-10.0.1.aar/4f8ae4aeb22f4644b75c847a62644eec/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/leejaebeom/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/8eff22e08cd3fe72a7e4448f1f30d05f/AndroidManifest.xml:20:20-65

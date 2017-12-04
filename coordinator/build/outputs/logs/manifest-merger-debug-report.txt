@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:2:11-46
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:4:5-7:37
+	android:supportsRtl
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml:5:9-35
+uses-sdk
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/coordinator/src/main/AndroidManifest.xml

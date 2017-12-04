@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarkdownView"><attr format="reference" name="rawFile"/><attr format="reference" name="markdown"/></declare-styleable>
+</resources>

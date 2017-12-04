@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:5:3-8:17
+activity#eu.fiskur.markdownview.MarkdownActivity
+ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:6:5-7:16
+	android:name
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml:6:15-47
+uses-sdk
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+		ADDED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
+		INJECTED from /Users/leejaebeom/Dropbox/Developer/Android Project/awesome-blogs-android/markDownView/src/main/AndroidManifest.xml
